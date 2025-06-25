@@ -28,19 +28,9 @@ Make sure you have Python installed.
 Clone this repository or download the script.
 
 Open your terminal and navigate to the script's folder.
-
-Run the chatbot using:
-
-bash
-Copy
-Edit
-python chatbot.py
 Type your message and interact with the bot. To exit, type bye, exit, or quit.
 
 📝 Example Interaction
-yaml
-Copy
-Edit
  Chatbot: Hello! I’m your AI assistant. Type 'bye' to exit.
 You: hello
  Chatbot: Hi there! How can I assist you?
