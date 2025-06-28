@@ -39,6 +39,8 @@ reset_game(): Resets the board after a win or draw.
 
 buttons: List of all 9 Tkinter buttons on the GUI.
 
+---
+
 🧪 Example Gameplay
 Player clicks on a box → it marks 'X'
 
