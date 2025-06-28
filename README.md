@@ -1,7 +1,7 @@
 # CodSoft #2
-🎮 Tic-Tac-Toe Game (Python GUI)
+🎮 Tic-Tac-Toe Ai Game (Python GUI)
 
-This is a simple **Tic-Tac-Toe game** built using **Python and Tkinter**, where the human player (`X`) plays against a computer opponent (`O`) that makes **random moves**.
+This is a simple **Tic-Tac-Toe Ai game** built using **Python and Tkinter**, where the human player (`X`) plays against a computer opponent (`O`) that makes **random moves**.
 
 ---
 
